@@ -11,3 +11,8 @@ nav {
   display: flex;
   gap: 100px;
 }
+
+.socials {
+  display: flex;
+  gap: 10px;
+}
