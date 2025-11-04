@@ -51,3 +51,12 @@ body {
     display: flex;
     gap: 10px;
 }
+
+.text-section {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 380px;
+    width: 50%;
+    max-width: 720px;
+}
