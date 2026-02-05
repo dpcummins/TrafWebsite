@@ -1,0 +1,62 @@
+nav {
+    background-color: #457f70;
+    padding: 0 15px;
+    height: 50px;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-items {
+    display: flex;
+    gap: 100px;
+}
+
+.nav-items > a {
+    color: #efe6a6;
+    text-decoration: none;
+    text-shadow: -2px 2px black;
+    font-weight: bold;
+}
+
+body {
+    background-color: #d6d6d6;
+}
+
+.main-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 380px;
+    width: 50%;
+    max-width: 720px;
+}
+
+.google-map {
+    padding: 10% 10%;
+    position: relative;
+}
+
+.google-map iframe{
+    height: 90%;
+    width: 50%;
+    left: 25%;
+    top: 0%;
+    position: absolute;
+}
+
+.socials {
+    height: 30px;
+    display: flex;
+    gap: 10px;
+}
+
+.text-section {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 380px;
+    width: 50%;
+    max-width: 720px;
+}
