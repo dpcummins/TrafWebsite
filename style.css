@@ -1,16 +1,15 @@
 nav {
     background-color: #457f70;
-    padding: 0 15px;
-    height: 50px;
-    font-size: 26px;
+    padding: 10px 15px;
+    height: auto;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    font-size: 26px;
 }
 
 .nav-items {
-    display: flex;
-    gap: 100px;
+    gap: 0px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .nav-items > a {
@@ -47,8 +46,9 @@ body {
 }
 
 .socials {
+    margin-left: auto;
+    margin-right: auto;
     height: 30px;
-    display: flex;
     gap: 10px;
 }
 
